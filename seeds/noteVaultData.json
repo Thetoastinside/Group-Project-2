@@ -1,0 +1,13 @@
+[
+    {
+      "user_id": 1,
+      "title": "Note 1 Title",
+      "note": "This is a sample note for user1"
+    },
+    {
+      "user_id": 2,
+      "title": "Note 2 Title",
+      "note": "This is a sample note for user2"
+    }
+  ]
+  
