@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": 1,
+        "address": "N/A",
+        "street": "123 Sample St",
+        "city": "Sample City",
+        "state": "ST",
+        "country": "Country",
+        "postal_code": "12345"
+    },
+    {
+        "user_id": 2,
+        "address": "N/A",
+        "street": "456 Sample Ave",
+        "city": "Sample City",
+        "state": "ST",
+        "country": "Country",
+        "postal_code": "67890"
+    }
+]
