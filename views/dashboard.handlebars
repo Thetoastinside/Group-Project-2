@@ -1,0 +1,28 @@
+{{> header}}
+
+<h1>Welcome to your Dashboard, {{user.username}}!</h1>
+
+<h2>Password Vault</h2>
+{{#each user.passwordVaults}}
+  <p>Website: {{this.website}}</p>
+  <p>Username: {{this.username}}</p>
+  <p>Password: {{this.password}}</p>
+{{/each}}
+
+<h2>Note Vault</h2>
+{{#each user.noteVaults}}
+  <p>Title: {{this.title}}</p>
+  <p>Note: {{this.note}}</p>
+{{/each}}
+
+<h2>Address Vault</h2>
+{{#each user.addressVaults}}
+  <p>Address: {{this.address}}</p>
+  <p>Street: {{this.street}}</p>
+  <p>City: {{this.city}}</p>
+  <p>State: {{this.state}}</p>
+  <p>Country: {{this.country}}</p>
+  <p>Postal Code: {{this.postal_code}}</p>
+{{/each}}
+
+{{> footer}}
