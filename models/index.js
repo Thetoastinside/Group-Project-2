@@ -1,4 +1,4 @@
-const User = require('./user');
+const User = require('./users');
 const PasswordVault = require('./passwordVault');
 const NoteVault = require('./noteVault');
 const AddressVault = require('./addressVault');
