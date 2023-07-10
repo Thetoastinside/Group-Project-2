@@ -28,7 +28,7 @@ As a user, I want a secure place where I can store sensitive information. I want
 
 ## Mock UP
 
-[Link to live deployment]
+[Link to live deployment](https://fierce-caverns-76810-3006413a677c.herokuapp.com/)
 
 ## Technology Used
 
